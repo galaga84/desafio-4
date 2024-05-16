@@ -1,0 +1,26 @@
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #707070;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+    color: #fff;
+  }
+  
+  .margen-left {
+    padding-left: 73%;
+  }
+  
+  .roboto-light-titulo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #212529;
+  }
+
